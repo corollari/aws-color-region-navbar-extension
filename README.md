@@ -1,6 +1,10 @@
 # AWS Navbar Region Color Extension
 > An OSS fork of the "AWS console regions color" extension, a browser extension that changes the color of the AWS navbar depending on the region
 
+# Install
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aws-navbar-region-color/)
+- [Chrome](https://chrome.google.com/webstore/detail/ofhcnghdbkacblncbjjpcdfmbknhckkb)
+
 ## Reasons for the fork
 - Other extension is not open source
 - Other extension was broken by an update on AWS' side
