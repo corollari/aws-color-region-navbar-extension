@@ -1,0 +1,82 @@
+{
+   "N. Virginia": {
+      "code": "us-east-1",
+      "default": "#e6194b"
+   },
+   "Ohio": {
+      "code": "us-east-2",
+      "default": "#3cb44b"
+   },
+   "N. California": {
+      "code": "us-west-1",
+      "default": "#e58e00"
+   },
+   "Oregon": {
+      "code": "us-west-2",
+      "default": "#4363d8"
+   },
+   "Cape Town": {
+      "code": "af-south-1",
+      "default": "#16ab3e"
+   },
+   "Hong Kong": {
+      "code": "ap-east-1",
+      "default": "#008080"
+   },
+   "Mumbai": {
+      "code": "ap-south-1",
+      "default": "#8a7299"
+   },
+   "Seoul": {
+      "code": "ap-northeast-2",
+      "default": "#9a6324"
+   },
+   "Singapore": {
+      "code": "ap-southeast-1",
+      "default": "#ccc8a0"
+   },
+   "Sydney": {
+      "code": "ap-southeast-2",
+      "default": "#800000"
+   },
+   "Tokyo": {
+      "code": "ap-northeast-1",
+      "default": "#669975"
+   },
+   "Central": {
+      "code": "ca-central-1",
+      "default": "#f58231"
+   },
+   "Frankfurt": {
+      "code": "eu-central-1",
+      "default": "#911eb4"
+   },
+   "Ireland": {
+      "code": "eu-west-1",
+      "default": "#31a8a8"
+   },
+   "London": {
+      "code": "eu-west-2",
+      "default": "#f032e6"
+   },
+   "Milan": {
+      "code": "eu-south-1",
+      "default": "#a30f88"
+   },
+   "Paris": {
+      "code": "eu-west-3",
+      "default": "#83ac08"
+   },
+   "Stockholm": {
+      "code": "eu-north-1",
+      "default": "#c89898"
+   },
+   "Bahrain": {
+      "code": "me-south-1",
+      "default": "#808000"
+   },
+   "São Paulo": {
+      "code": "sa-east-1",
+      "default": "#b2977b"
+   }
+}
