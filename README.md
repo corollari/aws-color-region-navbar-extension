@@ -11,6 +11,7 @@
 - Adds new regions that were missing
 - Adds support for Firefox
 - Uses a color picker instead of asking the user to input hex
+- Other extension requires a permission that lets it access your whole browsing history, this one doesn't
 
 I believe that by making it open source it'll be possible to verify that the code doesn't do anything wrong such as exfiltrate data and if there's any further breakage people will be able to fix it by either contributing or forking it into a new version.
 
