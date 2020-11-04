@@ -5,10 +5,10 @@
   <br>
 </h1>
 
-<h4 align="center">An OSS fork of the "AWS console regions color" extension, a browser extension that changes the color of the AWS navbar depending on the region</h4>
+<h4 align="center">An OSS version of the "AWS console regions color" extension, a browser extension that changes the color of the AWS navbar depending on the region</h4>
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/e1Fqa_zBUzLC5M6HtczqxnEls1raQuDJ7ygaSuX5-icToyyJXtmgkK57jhuzUpZeX_3iB6MVuNM=w640-h400-e365-rj-sc0x00ffffff">
+<img src="https://raw.githubusercontent.com/corollari/aws-color-region-navbar-extension/master/screenshot.png">
 </p>
 
 # Install
