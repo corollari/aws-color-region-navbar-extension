@@ -21,7 +21,7 @@ const defaultColor = {
     'São Paulo': '#b2977b'
 }
 
-const region = document.querySelector('[data-testid="awsc-nav-regions-menu-button"]>span').innerText;
+const region = document.querySelector('[data-testid="more-menu__awsc-nav-regions-menu-button"]>span').innerText;
 chrome.storage.local.get(region, (results)=>{
     let color = results[region];
     if(color===undefined){
