@@ -26,9 +26,11 @@ chrome.storage.local.get(region, (results)=>{
     let color = results[region];
     if(color===undefined){
         color = defaultColor[region]
+        elem = defaultColor[region]
     }
     if(color===undefined){
         return;
     }
     document.querySelector("#awsc-navigation-container>div").style.backgroundColor=color;
+    ;
 })
