@@ -30,5 +30,5 @@ chrome.storage.local.get(region, (results)=>{
     if(color===undefined){
         return;
     }
-    document.querySelector("#awsc-navigation-container>div").style.backgroundColor=color;
+    document.querySelector("[aria-label='Navigation bar']").style.backgroundColor=color;
 })
