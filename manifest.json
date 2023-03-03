@@ -1,6 +1,6 @@
 {
 	"name": "AWS Navbar Region Color",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Change AWS's navbar color depending on the region",
 	"manifest_version": 2,
 	"browser_action": {
